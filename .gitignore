@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.egg
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit / runtime
+streamlit.toml
+*.log
+*.sqlite
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local/test artifacts
+*.pytest_cache/
+.coverage
+htmlcov/
+.enc
+*.tmp
+*~ 
+```// filepath: c:\Users\PK\Documents\CODING\tree-builder\.gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+pip-wheel-metadata/
+*.egg
+.venv/
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit / runtime
+streamlit.toml
+*.log
+*.sqlite
+*.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local/test artifacts
+*.pytest_cache/
+.coverage
+htmlcov/
+.enc
+*.tmp
+*~ 
